@@ -1,0 +1,532 @@
+[
+  {
+    "Category": "Aplicações",
+    "Patch": "Aplicações | Group DMS (Document Management) | Outros | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2231e3f9c31535509bef1c0bb00131de"
+  },
+  {
+    "Category": "Aplicações",
+    "Patch": "Aplicações | Group DMS (Document Management) | Requisição de Serviços | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7291ebf9c31535509bef1c0bb001316f"
+  },
+  {
+    "Category": "Aplicações",
+    "Patch": "Aplicações | Group DMS (Document Management) | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bff16b3dc31535509bef1c0bb0013149"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | Adobe Acrobat DC/Standard/Professional (Requer Licença) | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f2ca5d068399b5109d535ba8beaad3d8"
+  },
+  {
+    "Category": "Sistema Operacional",
+    "Patch": "Sistema Operacional | Windows 10 | Informações | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=ff49bbb1c3d535509bef1c0bb0013190"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | ThinkCell (Requer Licença) | Desinstalação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=755c218a4759b9187fbfb7da216d438e"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Desktop | Teclado | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=85f3e7fdc31535509bef1c0bb00131a7"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | IPAD | Configuração | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1e54affdc31535509bef1c0bb0013188"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | ManagedBy - Inventário Físico de TI | Ajuda | ",
+    "TemplateUrl": "http://google.com.br/"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Dock Station | Solicitação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=0a776f35c35535509bef1c0bb00131d7"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Dock Station | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4117ab35c35535509bef1c0bb00131f1"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Dock Station | Configuração | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=10b6a7f1c35535509bef1c0bb0013186"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Fones de ouvido (auricular/headset) | Solicitação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d5a823f5c35535509bef1c0bb001312a"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Fones de ouvido (auricular/headset) | Configuração | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bed72375c35535509bef1c0bb001312d"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Fones de ouvido (auricular/headset) | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8448af75c35535509bef1c0bb0013191"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Monitor | Solicitação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=76c9eb39c35535509bef1c0bb00131b5"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Mouse | Solicitação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=89faa3b9c35535509bef1c0bb00131ac"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Periféricos | Teclado | Solicitação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=3a1caff9c35535509bef1c0bb001318a"
+  },
+  {
+    "Category": "Servidores",
+    "Patch": "Servidores | DRVS | Outros | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4496ff7dc39535509bef1c0bb00131e5"
+  },
+  {
+    "Category": "Servidores",
+    "Patch": "Servidores | DRVS | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=95f67fbdc39535509bef1c0bb0013166"
+  },
+  {
+    "Category": "Servidores",
+    "Patch": "Servidores | DRVS | Configuração | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4c36fb7dc39535509bef1c0bb0013102"
+  },
+  {
+    "Category": "Servidores",
+    "Patch": "Servidores | DRVS | Backup | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=03c5bf3dc39535509bef1c0bb00131e5"
+  },
+  {
+    "Category": "Impressora",
+    "Patch": "Impressora | Vinhedo | Zebra | Configuração | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=637c6f3dc35535509bef1c0bb0013177"
+  },
+  {
+    "Category": "Impressora",
+    "Patch": "Impressora | Vinhedo | Zebra | Instalação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=60ec2f7dc35535509bef1c0bb0013111"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | CO | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f2de2b71c39535509bef1c0bb00131f5"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | CO | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=884f27b1c39535509bef1c0bb00131c4"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | FI | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b8af23b1c39535509bef1c0bb00131e4"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | FI | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f1007fb1c39535509bef1c0bb0013175"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | MM | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8a6073f1c39535509bef1c0bb00131b0"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | MM | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=53c0bff1c39535509bef1c0bb00131d3"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | SD | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=42f1b7b5c39535509bef1c0bb0013100"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | SD | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9252b3b5c39535509bef1c0bb00131df"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | WM | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f273ff39c39535509bef1c0bb00131b7"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | WM | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dfd3fb79c39535509bef1c0bb00131b8"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | TRM | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6eb23ff5c39535509bef1c0bb001319b"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | TRM | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=83137339c39535509bef1c0bb0013168"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | ABAP | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e14d2b7dc35535509bef1c0bb001315b"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | ABAP | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b2ad23fdc35535509bef1c0bb001319b"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | PWcE | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=10317775c39535509bef1c0bb001313c"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | PWcE | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=0591b775c39535509bef1c0bb0013193"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | BASIS | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=ec1e67fdc35535509bef1c0bb0013189"
+  },
+  {
+    "Category": "SAP",
+    "Patch": "SAP | ADB | BASIS | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9d7e2731c39535509bef1c0bb001316b"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Acrobat PRO | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=787cf3f5c3d535509bef1c0bb0013193"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Acrobat PRO | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b30cffb5c3d535509bef1c0bb0013124"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Illustrator | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=623d7779c3d535509bef1c0bb00131ac"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Illustrator | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=29dcf739c3d535509bef1c0bb0013186"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Photoshop | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=490e7bb9c3d535509bef1c0bb00131ca"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Photoshop | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b79df379c3d535509bef1c0bb0013140"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | App Bradesco | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1b8fbb3dc3d535509bef1c0bb0013157"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | App Bradesco | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4f2fbff9c3d535509bef1c0bb001317d"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Premier Pro | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dace7ff9c3d535509bef1c0bb00131f2"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Adobe Premier Pro | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=916ef3f9c3d535509bef1c0bb0013159"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | App Itaú | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f450c88ec3d535509bef1c0bb00131b6"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | App Itaú | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6cffff7dc3d535509bef1c0bb00131d8"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | AutoCad Free | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b21108cec3d535509bef1c0bb0013142"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | AutoCad Free | Problema  | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=35b044cec3d535509bef1c0bb00131c8"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Canva | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7fd14c02c31935509bef1c0bb00131c7"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Canva | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=07714402c31935509bef1c0bb00131d4"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Knowbe4 | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=58e8c80ec31935509bef1c0bb00131ce"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Knowbe4 | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9c880ccac31935509bef1c0bb0013151"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Cisco AnyConnect | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=45a24482c31935509bef1c0bb001311d"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Cisco AnyConnect | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=68428c42c31935509bef1c0bb0013151"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Citrix Receiver | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f663ccc2c31935509bef1c0bb00131e8"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Citrix Receiver | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=310344c2c31935509bef1c0bb001314b"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Crystal Reports | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=60344806c31935509bef1c0bb00131fa"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Crystal Reports | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=27c3ccc2c31935509bef1c0bb0013108"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | DIRF | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2bb5c8c6c31935509bef1c0bb001318d"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | DIRF | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d7550886c31935509bef1c0bb00131ae"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | E-CPF | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6d86080ac31935509bef1c0bb0013170"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | E-CPF | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bc26800ac31935509bef1c0bb0013175"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | ETKA | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2157c08ac31935509bef1c0bb00131ec"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | ETKA | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=5df6080ac31935509bef1c0bb0013175"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Java | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8f1840cac31935509bef1c0bb00131b2"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Java | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=92b7c88ac31935509bef1c0bb0013145"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Mozilla Firefox | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=55a9c44ec31935509bef1c0bb00131bb"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Mozilla Firefox | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=c949840ec31935509bef1c0bb0013119"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Oracle Client 11 | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1f13918a8359b5109d535ba8beaad353"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Oracle Client 11 | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=29b2514a8359b5109d535ba8beaad3ca"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Nessus (PKI) | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f452d14a8359b5109d535ba8beaad349"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Nessus (PKI) | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bbe1190a8359b5109d535ba8beaad3e5"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | MS Project | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bcb8f80ac31d35509bef1c0bb001310d"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | MS Project | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=720a488ec31935509bef1c0bb001317c"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Sap Logon (SAPGUI) | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6ce3d9ca8359b5109d535ba8beaad322"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Sap Logon (SAPGUI) | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=08835d8a8359b5109d535ba8beaad389"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Synchro | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bd755d4e8359b5109d535ba8beaad3e5"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Synchro | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d115554e8359b5109d535ba8beaad399"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Tecwin | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4146198e8359b5109d535ba8beaad35f"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Tecwin | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7fd51d4e8359b5109d535ba8beaad355"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | ThinkCell | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dc2751028399b5109d535ba8beaad3ba"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | ThinkCell | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e5b6d1ce8359b5109d535ba8beaad396"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | MS Visio | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a6119d868359b5109d535ba8beaad386"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | MS Visio | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b581110a8359b5109d535ba8beaad3a2"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | WinSCP | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=93e751428399b5109d535ba8beaad328"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | WinSCP | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=21871dce8359b5109d535ba8beaad359"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | SPED Fiscal | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a7a49d0e8359b5109d535ba8beaad335"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | SPED Fiscal | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=91445dca8359b5109d535ba8beaad349"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | ZGView | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8558d5428399b5109d535ba8beaad3ed"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | ZGView | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=01b8d1828399b5109d535ba8beaad37a"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Diagra | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b9948c46c31935509bef1c0bb0013160"
+  },
+  {
+    "Category": "Software",
+    "Patch": "Software | Diagra | Requisição de Serviços |",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=cbf4c446c31935509bef1c0bb00131de"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | IPAD | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f7b4effdc31535509bef1c0bb00131dd"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | Microsoft Access Runtime | Auxílio | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f4f665824759b9187fbfb7da216d4305"
+  },
+  {
+    "Category": "Hardware",
+    "Patch": "Hardware | Desktop | Problema | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=11c22f7dc31535509bef1c0bb0013171"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | Microsoft Access (Requer Licença) | Auxílio | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=33c469ce4719b9187fbfb7da216d4337"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | Adobe Acrobat Reader | Instalação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1e6c59868399b5109d535ba8beaad37f"
+  },
+  {
+    "Category": "Softwares",
+    "Patch": "Softwares | Adobe Acrobat Reader | Desinstalação | ",
+    "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bc0c5d468399b5109d535ba8beaad378"
+  }
+]

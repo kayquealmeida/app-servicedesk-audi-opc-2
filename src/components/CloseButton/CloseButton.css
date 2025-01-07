@@ -1,0 +1,19 @@
+.close-button {
+  background-color: rgba(0, 0, 0, 0.03); /* Fundo sutil */
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.close-button:hover {
+  background-color: rgba(0, 0, 0, 0.10); /* Fundo mais visível */
+  transform: scale(1.1); /* Ampliação leve ao passar o mouse */
+  transform: rotate(45deg);
+}
+
+.close-icon {
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.close-button:hover .close-icon {
+  color: #ff1744; /* Vermelho mais visível no hover */
+}
