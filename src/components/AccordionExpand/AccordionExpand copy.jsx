@@ -1,6 +1,12 @@
 import React, { useEffect, useState } from 'react';
+import Accordion from '@mui/material/Accordion';
+import AccordionSummary from '@mui/material/AccordionSummary';
+import AccordionDetails from '@mui/material/AccordionDetails';
+import Typography from '@mui/material/Typography';
+import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 
-const Accordion = ({ items, keepOtherOpen }) => {
+const AccordionExpand = ({ items, keepOtherOpen }) => {
   const [groupedData, setGroupedData] = useState({});
 
   useEffect(() => {
@@ -42,10 +48,7 @@ const Accordion = ({ items, keepOtherOpen }) => {
     < >
       {Object.entries(groupedData).map(([subCategory, subItems]) => (
         <React.Fragment key={subCategory}>
-          <tr className={` accordion-header ${subCategory.toggled ? 'activeModal' : ''}`} onClick={() => handleAccordionToggle(subCategory)}>
-            {
-              console.log('subItems: ', subItems)
-            }
+          <tr className="accordion-header" onClick={() => handleAccordionToggle(subCategory)}>
             <td>{subCategory}</td>
             {/* <td>{subItems[0]?.SubPatch || 'N/A'}</td> */}
             {/* <td
@@ -70,15 +73,6 @@ const Accordion = ({ items, keepOtherOpen }) => {
                     {item.SubPatch}
                   </a>
                 </td>
-                {/* <td>
-                  <a
-                    href={item.TemplateUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {item.Patch}
-                  </a>
-                </td> */}
               </tr>
             ))}
         </React.Fragment>
@@ -87,4 +81,4 @@ const Accordion = ({ items, keepOtherOpen }) => {
   );
 };
 
-export default Accordion;
+export default AccordionExpand;

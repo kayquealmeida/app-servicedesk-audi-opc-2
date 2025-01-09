@@ -35,9 +35,9 @@ body {
 }
 
 main {
-  padding: 5px 30px;
-  /* max-width: 1920px;
-  border: 1px solid; */
+  padding: 0 20px;
+  /* max-width: 1920px;*/
+  /* border: 1px solid;  */
 
   /* overflow-x: clip; */
 }
@@ -48,7 +48,10 @@ main {
   justify-content: space-between;
   flex: 1;
   width: 100%;
-  max-width: 1920px;
+  max-width: 1300px;
+  /* max-width: 1920px; */
+  /* border: 1px solid;  */
+
 }
 
 header {
@@ -87,14 +90,6 @@ label {
   margin-bottom: 10px;
 }
 
-select {
-  width: 100%;
-  padding: 10px;
-  font-size: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
 .search-section {
   display: flex;
   justify-content: space-between;
@@ -102,22 +97,8 @@ select {
   width: 100%;
   margin: 20px 0;
   text-align: center;
-
-
-
-
-
-
-  
   /* border: 1px solid; */
 }
-
-
-
-
-
-
-
 
 .category-title {
   font-size: 1.2em;
@@ -127,13 +108,6 @@ select {
   display: flex;
   justify-content: center;
   align-items: center;
-
-
-
-
-
-
-
   /* border: 1px solid; */
 }
 
@@ -164,11 +138,6 @@ select {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  
-  
-  
-  
-  
   /* border: 1px solid green; */
 }
 
@@ -179,10 +148,6 @@ select {
   flex-wrap: wrap;
   width: 420px;
   max-width: 430px;
-
-  
-
-  
   /* border: 1px solid blue; */
 }
 
@@ -223,21 +188,6 @@ select {
   content: url(/assets/{category}-white.png);
 }
 
-.table-section {
-  display: flex;
-  width: 80vw;
-  align-self: flex-start;
-  overflow-y: auto; 
-  background-color: white;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  max-height: 52vh;
-  /* margin: 2rem 0; */
-
-
-  /* border: 1px solid red; */
-}
-
 .close-button {
   display: inline-block;
   top: 0;
@@ -248,109 +198,21 @@ select {
   border-radius: 100px;
 
   /* float: right; */
-
 }
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.table-header {
-  position: sticky;
-  top: 0;
-  background-color: #fff;
-}
-
-th, td {
-  width: 33%;
-  padding: 5px;
-  text-align: left;
-  font-size: .9em;
-  border: 1px solid #ddd;
-}
-
-td a {
-  display: flex;
-  flex: 1;
-  color: #000;
-  text-decoration: none;
-}
-
-th {
-  font-size: 1em;
-}
-
-.toggle {
-  cursor: pointer;
-}
-
-th {
-  background-color: #f4f4f4;
-}
-
-tr {
-  cursor: pointer;
-}
-
-tr:nth-child(even) {
-  background-color: #f4f4f4;
-}
-
-
 
 .middle-img {
   display: flex;
   justify-content: center;
   align-self: center;
-  width: 67%;
+  width: 60vw;
 
-
-  
   /* border: 1px solid brown; */
 }
 
-.middle-img img{
+.middle-img img {
   width: 400px;
   
-
-
-  
   /* border: 1px solid brown; */
-}
-
-.caption-content {
-  display: flex;
-  flex-direction: column;
-  width: 100%; 
-  padding: 0 30px 20px 30px;
-
-  /* border: 1px solid; */
-  
-}
-
-.caption-text {
-  display: flex;
-  align-items: center;
-  font-size: .8em;
-}
-
-.caption-text::before {
-  display: block;
-  content: '';
-  width: 8px;
-  height: 8px;
-  background-color: black;
-  margin-right: 10px;
-  border-radius: 100%;
-}
-
-.incident::before {
-  background-color: #ff0000;
-}
-
-.request::before {
-  background-color: #008000;
 }
 
 footer {
@@ -362,69 +224,45 @@ footer {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-tr {
-  /* width: 10%; */
-  border: 1px solid red;
+@media screen and (min-width: 1024px) { 
+  main {
+    padding: 0 20px;
+  }
 }
-
-
-
-
-.activeModal {
-  background-color: red;
-}
-
-
-
-
-
-
-
-
-
 
 @media screen and (min-width: 1250px) { 
-
-  .table-section {
-    width: 58vw;
+  main {
+    padding: 0 30px;
   }
-  
+
   .middle-img {
     width: 60vw;
   }
-
 }
 
 @media screen and (min-width: 1358px) { 
-
-  .table-section {
-    width: 62vw;
+  .middle-img {
+    width: 55vw;
   }
-
 }
 
-@media screen and (min-width: 1741px) { 
-
-  .table-section {
-    /* width: 72%; */
+@media screen and (min-width: 1480px) { 
+  .middle-img {
+    width: 50vw;
   }
+}
+
+@media screen and (min-width: 1480px) { 
+  .middle-img {
+    width: 45vw;
+  }
+}
+
+@media screen and (min-width: 1800px) { 
+  .middle-img {
+    width: 40vw;
+  }
+
 
 }
 
@@ -437,9 +275,8 @@ tr {
   .category-section {
     flex-direction: column;
     justify-content: flex-start;
-    position: relative;
     width: 100%;
-    height: 569px;
+    height: 568px;
     max-width: 500px;
   }
 
@@ -453,12 +290,8 @@ tr {
     width: 30px;
   }
 
-  .table-section {
-    width: 70vw;
-  }
-  
   .middle-img {
-    width: 100%;
+    width: 60vw;
     position: absolute;
     left: auto;
     right: auto;
@@ -466,9 +299,6 @@ tr {
   
 }
 
-@media screen and (min-width: 2000px) {
-  .table-section {
-    /* width: 72%; */
-  }
-  
-}
+/* @media screen and (min-width: 2000px) {
+
+} */

@@ -2,140 +2,143 @@
   {
     "Category": "Aplicações",
     "SubCategory": "Group DMS (Document Management)",
-    "SubPatch": "Aplicações - Group DMS (Document Management) -",
+    "SubPatch": "Outros",
     "Patch": "Aplicações - Group DMS (Document Management) - Outros - ",
+    "Type": "other",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2231e3f9c31535509bef1c0bb00131de"
   },
   {
     "Category": "Aplicações",
     "SubCategory": "Group DMS (Document Management)",
-    "SubPatch": "Aplicações - Group DMS (Document Management) -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Aplicações - Group DMS (Document Management) - Requisição de Serviço - ",
+    "Type": "request",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7291ebf9c31535509bef1c0bb001316f"
   },
   {
     "Category": "Aplicações",
     "SubCategory": "Group DMS (Document Management)",
-    "SubPatch": "Aplicações - Group DMS (Document Management) -",
+    "SubPatch": "Suporte",
     "Patch": "Aplicações - Group DMS (Document Management) - Suporte - ",
+    "Type": "incident",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bff16b3dc31535509bef1c0bb0013149"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Desktop",
-    "SubPatch": "Hardware - Desktop -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Desktop - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=5462637dc31535509bef1c0bb0013189"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Desktop",
-    "SubPatch": "Hardware - Desktop -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Desktop - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=11c22f7dc31535509bef1c0bb0013171"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Desktop",
-    "SubPatch": "Hardware - Desktop -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - Desktop - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=162327bdc31535509bef1c0bb00131a2"
   },
   {
     "Category": "Hardware",
     "SubCategory": "IPAD",
-    "SubPatch": "Hardware - IPAD -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - IPAD - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1e54affdc31535509bef1c0bb0013188"
   },
   {
     "Category": "Hardware",
     "SubCategory": "IPAD",
-    "SubPatch": "Hardware - IPAD -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - IPAD - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f7b4effdc31535509bef1c0bb00131dd"
   },
   {
     "Category": "Hardware",
     "SubCategory": "IPAD",
-    "SubPatch": "Hardware - IPAD -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - IPAD - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6c252f31c35535509bef1c0bb00131a5"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Notebook",
-    "SubPatch": "Hardware - Notebook -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Notebook - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=3985a371c35535509bef1c0bb00131ad"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Notebook",
-    "SubPatch": "Hardware - Notebook -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Notebook - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=eae5e7b1c35535509bef1c0bb00131d0"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Notebook",
-    "SubPatch": "Hardware - Notebook -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - Notebook - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6746ebb1c35535509bef1c0bb0013136"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Dock Station",
-    "SubPatch": "Hardware - Periféricos - Dock Station -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Periféricos - Dock Station - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=10b6a7f1c35535509bef1c0bb0013186"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Dock Station",
-    "SubPatch": "Hardware - Periféricos - Dock Station -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Periféricos - Dock Station - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4117ab35c35535509bef1c0bb00131f1"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Dock Station",
-    "SubPatch": "Hardware - Periféricos - Dock Station -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - Periféricos - Dock Station - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=0a776f35c35535509bef1c0bb00131d7"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Fones de ouvido (auricular\/headset)",
-    "SubPatch": "Hardware - Periféricos - Fones de ouvido (auricular\/headset) -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Periféricos - Fones de ouvido (auricular\/headset) - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bed72375c35535509bef1c0bb001312d"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Fones de ouvido (auricular\/headset)",
-    "SubPatch": "Hardware - Periféricos - Fones de ouvido (auricular\/headset) -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Periféricos - Fones de ouvido (auricular\/headset) - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8448af75c35535509bef1c0bb0013191"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Fones de ouvido (auricular\/headset)",
-    "SubPatch": "Hardware - Periféricos - Fones de ouvido (auricular\/headset) -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - Periféricos - Fones de ouvido (auricular\/headset) - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d5a823f5c35535509bef1c0bb001312a"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Monitor",
-    "SubPatch": "Hardware - Periféricos - Monitor -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Periféricos - Monitor - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f90923f5c35535509bef1c0bb0013133"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Monitor",
-    "SubPatch": "Hardware - Periféricos - Monitor -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Periféricos - Monitor - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e2692bf5c35535509bef1c0bb001314e"
   },
@@ -149,756 +152,764 @@
   {
     "Category": "Hardware",
     "SubCategory": "Mouse",
-    "SubPatch": "Hardware - Periféricos - Mouse -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Periféricos - Mouse - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f32aa779c35535509bef1c0bb00131f0"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Mouse",
-    "SubPatch": "Hardware - Periféricos - Mouse -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Periféricos - Mouse - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6c9aeb79c35535509bef1c0bb001319a"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Mouse",
-    "SubPatch": "Hardware - Periféricos - Mouse -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - Periféricos - Mouse - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=89faa3b9c35535509bef1c0bb00131ac"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Teclado",
-    "SubPatch": "Hardware - Periféricos - Teclado -",
+    "SubPatch": "Configuração",
     "Patch": "Hardware - Periféricos - Teclado - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bd5b67f9c35535509bef1c0bb0013125"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Teclado",
-    "SubPatch": "Hardware - Periféricos - Teclado -",
+    "SubPatch": "Incidente",
     "Patch": "Hardware - Periféricos - Teclado - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d2bbefb9c35535509bef1c0bb00131a3"
   },
   {
     "Category": "Hardware",
     "SubCategory": "Teclado",
-    "SubPatch": "Hardware - Periféricos - Teclado -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Hardware - Periféricos - Teclado - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=3a1caff9c35535509bef1c0bb001318a"
   },
   {
     "Category": "Impressora",
     "SubCategory": "Zebra",
-    "SubPatch": "Impressora - Vinhedo - Zebra -",
+    "SubPatch": "Configuração",
     "Patch": "Impressora - Vinhedo - Zebra - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=637c6f3dc35535509bef1c0bb0013177"
   },
   {
     "Category": "Impressora",
     "SubCategory": "Zebra",
-    "SubPatch": "Impressora - Vinhedo - Zebra -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Impressora - Vinhedo - Zebra - Instalação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=60ec2f7dc35535509bef1c0bb0013111"
   },
   {
     "Category": "SAP",
     "SubCategory": "ABAP",
-    "SubPatch": "SAP - ADB - ABAP -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - ABAP - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e14d2b7dc35535509bef1c0bb001315b"
   },
   {
     "Category": "SAP",
     "SubCategory": "ABAP",
-    "SubPatch": "SAP - ADB - ABAP -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - ABAP - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b2ad23fdc35535509bef1c0bb001319b"
   },
   {
     "Category": "SAP",
     "SubCategory": "BASIS",
-    "SubPatch": "SAP - ADB - BASIS -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - BASIS - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=ec1e67fdc35535509bef1c0bb0013189"
   },
   {
     "Category": "SAP",
     "SubCategory": "BASIS",
-    "SubPatch": "SAP - ADB - BASIS -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - BASIS - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9d7e2731c39535509bef1c0bb001316b"
   },
   {
     "Category": "SAP",
     "SubCategory": "CO",
-    "SubPatch": "SAP - ADB - CO -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - CO - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f2de2b71c39535509bef1c0bb00131f5"
   },
   {
     "Category": "SAP",
     "SubCategory": "CO",
-    "SubPatch": "SAP - ADB - CO -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - CO - Requisição de serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=884f27b1c39535509bef1c0bb00131c4"
   },
   {
     "Category": "SAP",
     "SubCategory": "FI",
-    "SubPatch": "SAP - ADB - FI -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - FI - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b8af23b1c39535509bef1c0bb00131e4"
   },
   {
     "Category": "SAP",
     "SubCategory": "FI",
-    "SubPatch": "SAP - ADB - FI -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - FI - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f1007fb1c39535509bef1c0bb0013175"
   },
   {
     "Category": "SAP",
     "SubCategory": "MM",
-    "SubPatch": "SAP - ADB - MM -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - MM - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8a6073f1c39535509bef1c0bb00131b0"
   },
   {
     "Category": "SAP",
     "SubCategory": "MM",
-    "SubPatch": "SAP - ADB - MM -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - MM - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=53c0bff1c39535509bef1c0bb00131d3"
   },
   {
     "Category": "SAP",
     "SubCategory": "PWcE",
-    "SubPatch": "SAP - ADB - PWcE -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - PWcE - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=10317775c39535509bef1c0bb001313c"
   },
   {
     "Category": "SAP",
     "SubCategory": "PWcE",
-    "SubPatch": "SAP - ADB - PWcE -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - PWcE - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=0591b775c39535509bef1c0bb0013193"
   },
   {
     "Category": "SAP",
     "SubCategory": "SD",
-    "SubPatch": "SAP - ADB - SD -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - SD - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=42f1b7b5c39535509bef1c0bb0013100"
   },
   {
     "Category": "SAP",
     "SubCategory": "SD",
-    "SubPatch": "SAP - ADB - SD -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - SD - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9252b3b5c39535509bef1c0bb00131df"
   },
   {
     "Category": "SAP",
     "SubCategory": "TRM",
-    "SubPatch": "SAP - ADB - TRM -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - TRM - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6eb23ff5c39535509bef1c0bb001319b"
   },
   {
     "Category": "SAP",
     "SubCategory": "TRM",
-    "SubPatch": "SAP - ADB - TRM -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - TRM - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=83137339c39535509bef1c0bb0013168"
   },
   {
     "Category": "SAP",
     "SubCategory": "WM",
-    "SubPatch": "SAP - ADB - WM -",
+    "SubPatch": "Incidente",
     "Patch": "SAP - ADB - WM - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f273ff39c39535509bef1c0bb00131b7"
   },
   {
     "Category": "SAP",
     "SubCategory": "WM",
-    "SubPatch": "SAP - ADB - WM -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "SAP - ADB - WM - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dfd3fb79c39535509bef1c0bb00131b8"
   },
   {
     "Category": "Segurança",
     "SubCategory": "Bitlocker (Dificuldades com recovery)",
-    "SubPatch": "Segurança - Bitlocker (Dificuldades com recovery) - ",
+    "SubPatch": "Incidente",
     "Patch": "Segurança - Bitlocker (Dificuldades com recovery) - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4444f7b9c39535509bef1c0bb00131e0"
   },
   {
     "Category": "Segurança",
     "SubCategory": "CITRIX",
-    "SubPatch": "Segurança - CITRIX",
+    "SubPatch": "Reset do Password 2 (Token RSA)",
     "Patch": "Segurança - CITRIX - Reset do Password 2 (Token RSA) - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e4a4fbb9c39535509bef1c0bb00131d5"
   },
   {
     "Category": "Segurança",
     "SubCategory": "CITRIX",
-    "SubPatch": "Segurança - CITRIX",
+    "SubPatch": "Solicitação de acesso",
     "Patch": "Segurança - CITRIX - Solicitação de acesso - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dd05fbf9c39535509bef1c0bb00131d4"
   },
   {
     "Category": "Segurança",
     "SubCategory": "Liberação de portas USB",
-    "SubPatch": "Segurança - Liberação de portas USB -",
+    "SubPatch": "Liberação de portas USB",
     "Patch": "Segurança - Liberação de portas USB - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2d65773dc39535509bef1c0bb001319c"
   },
   {
     "Category": "Servidores",
     "SubCategory": "DRVS",
-    "SubPatch": "Servidores - DRVS -",
+    "SubPatch": "Backup",
     "Patch": "Servidores - DRVS - Backup - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=03c5bf3dc39535509bef1c0bb00131e5"
   },
   {
     "Category": "Servidores",
     "SubCategory": "DRVS",
-    "SubPatch": "Servidores - DRVS - Configuração - ",
+    "SubPatch": "Configuração",
     "Patch": "Servidores - DRVS - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4c36fb7dc39535509bef1c0bb0013102"
   },
   {
     "Category": "Servidores",
     "SubCategory": "DRVS",
-    "SubPatch": "Servidores - DRVS - Outros - ",
+    "SubPatch": "Outros",
     "Patch": "Servidores - DRVS - Outros - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4496ff7dc39535509bef1c0bb00131e5"
   },
   {
     "Category": "Servidores",
     "SubCategory": "DRVS",
-    "SubPatch": "Servidores - DRVS - Problema - ",
+    "SubPatch": "Incidente",
     "Patch": "Servidores - DRVS - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=95f67fbdc39535509bef1c0bb0013166"
   },
   {
     "Category": "Servidores",
     "SubCategory": "File Server",
-    "SubPatch": "Servidores - File Server - Backup -",
+    "SubPatch": "Backup",
     "Patch": "Servidores - File Server - Backup - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=5657ffbdc39535509bef1c0bb00131f6"
   },
   {
     "Category": "Servidores",
     "SubCategory": "File Server",
-    "SubPatch": "Servidores - File Server - Configuração -",
+    "SubPatch": "Configuração",
     "Patch": "Servidores - File Server - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=03b7b331c3d535509bef1c0bb00131ad"
   },
   {
     "Category": "Servidores",
     "SubCategory": "File Server",
-    "SubPatch": "Servidores - File Server - Outros -",
+    "SubPatch": "Outros",
     "Patch": "Servidores - File Server - Outros - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=20287731c3d535509bef1c0bb001319e"
   },
   {
     "Category": "Servidores",
     "SubCategory": "File Server",
-    "SubPatch": "Servidores - File Server - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Servidores - File Server - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a1883771c3d535509bef1c0bb0013155"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 10",
-    "SubPatch": "Sistema Operacional - Windows 10 - Auxílio -",
+    "SubPatch": "Auxílio",
     "Patch": "Sistema Operacional - Windows 10 - Auxílio - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=fae833b1c3d535509bef1c0bb00131f8"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 10",
-    "SubPatch": "Sistema Operacional - Windows 10 - Informações -",
+    "SubPatch": "Informações",
     "Patch": "Sistema Operacional - Windows 10 - Informações - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=ff49bbb1c3d535509bef1c0bb0013190"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 10",
-    "SubPatch": "Sistema Operacional - Windows 10 - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Sistema Operacional - Windows 10 - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=98b977f1c3d535509bef1c0bb0013110"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 10",
-    "SubPatch": "Sistema Operacional - Windows 10 - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Sistema Operacional - Windows 10 - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=191afff1c3d535509bef1c0bb0013143"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 11",
-    "SubPatch": "Sistema Operacional - Windows 11 - Auxílio -",
+    "SubPatch": "Auxílio",
     "Patch": "Sistema Operacional - Windows 11 - Auxílio - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=027af735c3d535509bef1c0bb001310d"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 11",
-    "SubPatch": "Sistema Operacional - Windows 11 - Informações -",
+    "SubPatch": "Informações",
     "Patch": "Sistema Operacional - Windows 11 - Informações - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=40eaff35c3d535509bef1c0bb0013141"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 11",
-    "SubPatch": "Sistema Operacional - Windows 11 - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Sistema Operacional - Windows 11 - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7c4b3b75c3d535509bef1c0bb0013143"
   },
   {
     "Category": "Sistema Operacional",
     "SubCategory": "Windows 11",
-    "SubPatch": "Sistema Operacional - Windows 11 - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Sistema Operacional - Windows 11 - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1eab77b5c3d535509bef1c0bb00131b4"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Acrobat PRO",
-    "SubPatch": "Software - Adobe Acrobat PRO - Problema -",
-    "Patch": "Software - Adobe Acrobat PRO - Problema - ",
+    "SubPatch": "Incidente",
+    "Patch": "Software - Adobe Acrobat PRO - Problema -",
+    "Type": "incident",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b30cffb5c3d535509bef1c0bb0013124"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Acrobat PRO",
-    "SubPatch": "Software - Adobe Acrobat PRO - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Adobe Acrobat PRO - Requisição de Serviço - ",
+    "Type": "request",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=787cf3f5c3d535509bef1c0bb0013193"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Illustrator",
-    "SubPatch": "Software - Adobe Illustrator - Problema -",
+    "SubPatch": "Incidente",
+    "Type": "incident",
     "Patch": "Software - Adobe Illustrator - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=29dcf739c3d535509bef1c0bb0013186"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Illustrator",
-    "SubPatch": "Software - Adobe Illustrator - Requisição de Serviço - ",
+    "SubPatch": "Requisição de Serviço",
+    "Type": "request",
     "Patch": "Software - Adobe Illustrator - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=623d7779c3d535509bef1c0bb00131ac"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Photoshop",
-    "SubPatch": "Software - Adobe Photoshop - Problema -",
+    "SubPatch": "Incidente",
+    "Type": "incident",
     "Patch": "Software - Adobe Photoshop - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b79df379c3d535509bef1c0bb0013140"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Photoshop",
-    "SubPatch": "Software - Adobe Photoshop - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
+    "Type": "request",
     "Patch": "Software - Adobe Photoshop - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=490e7bb9c3d535509bef1c0bb00131ca"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Premier Pro",
-    "SubPatch": "Software - Adobe Premier Pro - Problema -",
+    "SubPatch": "Incidente",
+    "Type": "incident",
     "Patch": "Software - Adobe Premier Pro - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=916ef3f9c3d535509bef1c0bb0013159"
   },
   {
     "Category": "Software",
     "SubCategory": "Adobe Premier Pro",
-    "SubPatch": "Software - Adobe Premier Pro - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
+    "Type": "request",
     "Patch": "Software - Adobe Premier Pro - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dace7ff9c3d535509bef1c0bb00131f2"
   },
   {
     "Category": "Software",
     "SubCategory": "App Bradesco",
-    "SubPatch": "Software - App Bradesco - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - App Bradesco - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4f2fbff9c3d535509bef1c0bb001317d"
   },
   {
     "Category": "Software",
     "SubCategory": "App Bradesco",
-    "SubPatch": "App Bradesco - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - App Bradesco - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1b8fbb3dc3d535509bef1c0bb0013157"
   },
   {
     "Category": "Software",
     "SubCategory": "App Itaú",
-    "SubPatch": "App Itaú - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - App Itaú - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6cffff7dc3d535509bef1c0bb00131d8"
   },
   {
     "Category": "Software",
     "SubCategory": "App Itaú",
-    "SubPatch": "App Itaú - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - App Itaú - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f450c88ec3d535509bef1c0bb00131b6"
   },
   {
     "Category": "Software",
     "SubCategory": "AutoCad Free",
-    "SubPatch": "AutoCad Free - Problema  -",
+    "SubPatch": "Incidente",
     "Patch": "Software - AutoCad Free - Problema  - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=35b044cec3d535509bef1c0bb00131c8"
   },
   {
     "Category": "Software",
     "SubCategory": "AutoCad Free",
-    "SubPatch": "AutoCad Free - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - AutoCad Free - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b21108cec3d535509bef1c0bb0013142"
   },
   {
     "Category": "Software",
     "SubCategory": "Canva",
-    "SubPatch": "Canva - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Canva - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=07714402c31935509bef1c0bb00131d4"
   },
   {
     "Category": "Software",
     "SubCategory": "Canva",
-    "SubPatch": "Canva - Requisição de serviço -",
+    "SubPatch": "Requisição de serviço",
     "Patch": "Software - Canva - Requisição de serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7fd14c02c31935509bef1c0bb00131c7"
   },
   {
     "Category": "Software",
     "SubCategory": "Cisco AnyConnect",
-    "SubPatch": "Cisco AnyConnect - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Cisco AnyConnect - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=68428c42c31935509bef1c0bb0013151"
   },
   {
     "Category": "Software",
     "SubCategory": "Cisco AnyConnect",
-    "SubPatch": "Cisco AnyConnect - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Cisco AnyConnect - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=45a24482c31935509bef1c0bb001311d"
   },
   {
     "Category": "Software",
     "SubCategory": "Citrix Receiver",
-    "SubPatch": "Citrix Receiver - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Citrix Receiver - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=310344c2c31935509bef1c0bb001314b"
   },
   {
     "Category": "Software",
     "SubCategory": "Citrix Receiver",
-    "SubPatch": "Citrix Receiver - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Citrix Receiver - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f663ccc2c31935509bef1c0bb00131e8"
   },
   {
     "Category": "Software",
     "SubCategory": "Crystal Reports",
-    "SubPatch": "Crystal Reports - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Crystal Reports - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=27c3ccc2c31935509bef1c0bb0013108"
   },
   {
     "Category": "Software",
     "SubCategory": "Crystal Reports",
-    "SubPatch": "Crystal Reports - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Crystal Reports - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=60344806c31935509bef1c0bb00131fa"
   },
   {
     "Category": "Software",
     "SubCategory": "Diagra",
-    "SubPatch": "Diagra - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Diagra - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b9948c46c31935509bef1c0bb0013160"
   },
   {
     "Category": "Software",
     "SubCategory": "Diagra",
-    "SubPatch": "Diagra - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Diagra - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=cbf4c446c31935509bef1c0bb00131de"
   },
   {
     "Category": "Software",
     "SubCategory": "DIRF",
-    "SubPatch": "DIRF - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - DIRF - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d7550886c31935509bef1c0bb00131ae"
   },
   {
     "Category": "Software",
     "SubCategory": "DIRF",
-    "SubPatch": "DIRF - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - DIRF - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2bb5c8c6c31935509bef1c0bb001318d"
   },
   {
     "Category": "Software",
     "SubCategory": "E-CPF",
-    "SubPatch": "E-CPF - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - E-CPF - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bc26800ac31935509bef1c0bb0013175"
   },
   {
     "Category": "Software",
     "SubCategory": "E-CPF",
-    "SubPatch": "E-CPF - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - E-CPF - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6d86080ac31935509bef1c0bb0013170"
   },
   {
     "Category": "Software",
     "SubCategory": "ETKA",
-    "SubPatch": "ETKA - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - ETKA - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=5df6080ac31935509bef1c0bb0013175"
   },
   {
     "Category": "Software",
     "SubCategory": "ETKA",
-    "SubPatch": "ETKA - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - ETKA - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2157c08ac31935509bef1c0bb00131ec"
   },
   {
     "Category": "Software",
     "SubCategory": "Java",
-    "SubPatch": "Java - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Java - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=92b7c88ac31935509bef1c0bb0013145"
   },
   {
     "Category": "Software",
     "SubCategory": "Java",
-    "SubPatch": "Java - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço ",
     "Patch": "Software - Java - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8f1840cac31935509bef1c0bb00131b2"
   },
   {
     "Category": "Software",
     "SubCategory": "Knowbe4",
-    "SubPatch": "Knowbe4 - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Knowbe4 - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9c880ccac31935509bef1c0bb0013151"
   },
   {
     "Category": "Software",
     "SubCategory": "Knowbe4",
-    "SubPatch": "Knowbe4 - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Knowbe4 - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=58e8c80ec31935509bef1c0bb00131ce"
   },
   {
     "Category": "Software",
     "SubCategory": "Mozilla Firefox",
-    "SubPatch": "Mozilla Firefox - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Mozilla Firefox - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=c949840ec31935509bef1c0bb0013119"
   },
   {
     "Category": "Software",
     "SubCategory": "Mozilla Firefox",
-    "SubPatch": "Mozilla Firefox - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Mozilla Firefox - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=55a9c44ec31935509bef1c0bb00131bb"
   },
   {
     "Category": "Software",
     "SubCategory": "MS Project",
-    "SubPatch": "MS Project - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - MS Project - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=720a488ec31935509bef1c0bb001317c"
   },
   {
     "Category": "Software",
     "SubCategory": "MS Project",
-    "SubPatch": "MS Project - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - MS Project - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bcb8f80ac31d35509bef1c0bb001310d"
   },
   {
     "Category": "Software",
     "SubCategory": "MS Visio",
-    "SubPatch": "MS Visio - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - MS Visio - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a6119d868359b5109d535ba8beaad386"
   },
   {
     "Category": "Software",
     "SubCategory": "MS Visio",
-    "SubPatch": "MS Visio - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - MS Visio - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b581110a8359b5109d535ba8beaad3a2"
   },
   {
     "Category": "Software",
     "SubCategory": "Nessus (PKI)",
-    "SubPatch": "Nessus (PKI) - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Nessus (PKI) - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bbe1190a8359b5109d535ba8beaad3e5"
   },
   {
     "Category": "Software",
     "SubCategory": "Nessus (PKI)",
-    "SubPatch": "Nessus (PKI) - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Nessus (PKI) - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f452d14a8359b5109d535ba8beaad349"
   },
   {
     "Category": "Software",
     "SubCategory": "Oracle Client 11",
-    "SubPatch": "Oracle Client 11 - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Oracle Client 11 - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=29b2514a8359b5109d535ba8beaad3ca"
   },
   {
     "Category": "Software",
     "SubCategory": "Oracle Client 11",
-    "SubPatch": "Oracle Client 11 - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Oracle Client 11 - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1f13918a8359b5109d535ba8beaad353"
   },
   {
     "Category": "Software",
     "SubCategory": "Sap Logon (SAPGUI)",
-    "SubPatch": "Sap Logon (SAPGUI) - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Sap Logon (SAPGUI) - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=08835d8a8359b5109d535ba8beaad389"
   },
   {
     "Category": "Software",
     "SubCategory": "Sap Logon (SAPGUI)",
-    "SubPatch": "ap Logon (SAPGUI) - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Sap Logon (SAPGUI) - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6ce3d9ca8359b5109d535ba8beaad322"
   },
   {
     "Category": "Software",
     "SubCategory": "SPED Fiscal",
-    "SubPatch": "SPED Fiscal - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - SPED Fiscal - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=91445dca8359b5109d535ba8beaad349"
   },
   {
     "Category": "Software",
     "SubCategory": "SPED Fiscal",
-    "SubPatch": "SPED Fiscal - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - SPED Fiscal - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a7a49d0e8359b5109d535ba8beaad335"
   },
   {
     "Category": "Software",
     "SubCategory": "Synchro",
-    "SubPatch": "Synchro - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Synchro - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d115554e8359b5109d535ba8beaad399"
   },
   {
     "Category": "Software",
     "SubCategory": "Synchro",
-    "SubPatch": "Synchro - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Synchro - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bd755d4e8359b5109d535ba8beaad3e5"
   },
   {
     "Category": "Software",
     "SubCategory": "Tecwin",
-    "SubPatch": "Tecwin - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - Tecwin - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7fd51d4e8359b5109d535ba8beaad355"
   },
   {
     "Category": "Software",
     "SubCategory": "Tecwin",
-    "SubPatch": "Tecwin - Requisição de Serviço",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - Tecwin - Requisição de Serviço",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4146198e8359b5109d535ba8beaad35f"
   },
   {
     "Category": "Software",
     "SubCategory": "ThinkCell",
-    "SubPatch": "ThinkCell - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - ThinkCell - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e5b6d1ce8359b5109d535ba8beaad396"
   },
   {
     "Category": "Software",
     "SubCategory": "ThinkCell",
-    "SubPatch": "ThinkCell - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - ThinkCell - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dc2751028399b5109d535ba8beaad3ba"
   },
   {
     "Category": "Software",
     "SubCategory": "WinSCP",
-    "SubPatch": "WinSCP - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - WinSCP - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=21871dce8359b5109d535ba8beaad359"
   },
   {
     "Category": "Software",
     "SubCategory": "WinSCP",
-    "SubPatch": "WinSCP - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - WinSCP - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=93e751428399b5109d535ba8beaad328"
   },
   {
     "Category": "Software",
     "SubCategory": "ZGView",
-    "SubPatch": "ZGView - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Software - ZGView - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8558d5428399b5109d535ba8beaad3ed"
   },
   {
     "Category": "Software",
     "SubCategory": "ZGView",
-    "SubPatch": "ZGView - Requisição de Serviço -",
+    "SubPatch": "Requisição de Serviço",
     "Patch": "Software - ZGView - Requisição de Serviço - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=01b8d1828399b5109d535ba8beaad37a"
   },
   {
     "Category": "Telefonia",
     "SubCategory": "Mobile",
-    "SubPatch": "Mobile - Configuração -",
+    "SubPatch": "Configuração",
     "Patch": "Telefonia - Mobile - Configuração - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=50cc698a4759b9187fbfb7da216d4392"
   },
   {
     "Category": "Telefonia",
     "SubCategory": "Mobile",
-    "SubPatch": "Mobile - Problema -",
+    "SubPatch": "Incidente",
     "Patch": "Telefonia - Mobile - Problema - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f52de1ca4759b9187fbfb7da216d43bf"
   },
   {
     "Category": "Telefonia",
     "SubCategory": "Mobile",
-    "SubPatch": "Mobile - Solicitação -",
+    "SubPatch": "Requisição de Serviço ",
     "Patch": "Telefonia - Mobile - Solicitação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=749d65ca4759b9187fbfb7da216d4371"
   },
   {
     "Category": "Telefonia",
     "SubCategory": "Softphone",
-    "SubPatch": "Softphone - Instalação -",
+    "SubPatch": "Solicitação de Serviço",
     "Patch": "Telefonia - Softphone - Instalação - ",
     "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=3afda50e4759b9187fbfb7da216d43ca"
   },

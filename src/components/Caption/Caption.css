@@ -1,0 +1,36 @@
+.caption-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%; 
+  padding: 0 30px 20px 20px;
+}
+
+.caption-text {
+  display: flex;
+  align-items: center;
+  font-size: .8em;
+}
+
+.caption-text::before {
+  display: block;
+  content: '';
+  width: 8px;
+  height: 8px;
+  background-color: black;
+  margin-right: 10px;
+  border-radius: 100%;
+}
+
+.incident::before {
+  background-color: #ff0000;
+}
+
+.request::before {
+  background-color: #008000;
+}
+
+@media screen and (min-width: 1250px) {
+  .caption-content {
+    padding: 0 30px 20px 30px;
+  }
+}

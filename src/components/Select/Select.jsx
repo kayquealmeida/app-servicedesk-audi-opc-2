@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Accordion from '../Accordion/Accordion';
+import AccordionExpand from '../AccordionExpand/AccordionExpand';
 import Caption from '../Caption/Caption';
 import AudiBlack from '/assets/Audi_Rings_black.png';
 import ModalContent from '../ModalContent/ModalContent';
@@ -117,33 +117,14 @@ const Form = () => {
         }
 
         {filteredItems.length > 0 ? (
-          <section className="table-section">
-            <table>
-              <thead>
-                <tr className="table-header">
-                  <th>Descrição</th>
-                  {/* <th>Patch</th> */}
-                </tr>
-              </thead>
-              <tbody>
-                <Accordion items={filteredItems} />
-              </tbody>
-            </table>
+          <section className="accordion-content">
+            <AccordionExpand items={filteredItems} />
           </section>
         ) : (
           <div className="middle-img">
             <img className="middle-img" src={AudiBlack} alt="Logo AUDI black" />
           </div>
         )}
-        {/* {filteredItems.length > 0 ? (
-          <section className="table-section">
-
-          </section>
-        ) : (
-          <div className="middle-img">
-            <img className="middle-img" src={AudiBlack} alt="Logo AUDI black" />
-          </div>
-        )} */}
       </div>
 
       {/* Modal conectado ao estado */}
