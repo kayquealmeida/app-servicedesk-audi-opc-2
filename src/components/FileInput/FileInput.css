@@ -1,0 +1,74 @@
+/* FileInput.css */
+.file-input {
+  margin-bottom: 1.5rem;
+}
+
+.file-input label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.file-input__preview {
+  width: 100%;
+  height: 120px;
+  border: 2px dashed #ddd;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+  background-color: #f9f9f9;
+}
+
+.file-input__preview.has-error {
+  border-color: #ff4444;
+}
+
+.file-input__image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.file-input__placeholder {
+  color: #888;
+  text-align: center;
+  padding: 1rem;
+}
+
+.file-input__input {
+  display: none;
+}
+
+.file-input__button {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.file-input__button:hover {
+  background-color: #3367d6;
+}
+
+.file-input.has-error .file-input__placeholder {
+  color: #ff4444;
+}
+
+.error-message {
+  color: #ff4444;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+/* Light mode variant */
+.file-input--light .file-input__preview {
+  background-color: #f0f0f0;
+}

@@ -1,0 +1,24 @@
+.close-button {
+  display: inline-block;
+  top: 0;
+  margin-top: 15px;
+  right: 0;
+  margin-right: 15px;
+  position: absolute;
+  border-radius: 100px;
+
+  /* float: right; */
+}
+
+
+#modal-modal-title {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid; */
+}
+
+.icon-salesForce {
+  display: block;
+  width: 50px;
+  margin-right: .5rem;
+}

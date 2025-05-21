@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import AccordionExpand from '../AccordionExpand/AccordionExpand';
-import Caption from '../Caption/Caption';
-import AudiBlack from '/assets/Audi_Rings_black.png';
 import ModalContent from '../ModalContent/ModalContent';
+import { Button, Checkbox } from '@mui/material';
 
-const Form = () => {
+const Form = ({ isAdmin = true }) => {
   const [categories, setCategories] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState('');
   const [data, setData] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
   const [open, setOpen] = useState(false); // Estado do modal
+  const [modalContent, setModalContent] = useState({});
 
   useEffect(() => {
     async function fetchData() {
@@ -34,15 +34,21 @@ const Form = () => {
     setSelectedCategory(category);
     const items = data
       .filter((item) => item.Category === category)
-      .sort((a, b) => a.Patch.localeCompare(b.Patch));
+      .sort((a, b) => a.SubCategory.localeCompare(b.SubCategory));
     setFilteredItems(items);
+  };
+
+  const handleModalSubCatText = (category) => {
+    const modalCont = data.filter((item) => item.isPopUP).filter((item) => item.Category === category);
+    setModalContent(modalCont[0] || {}); // Evita passar undefined
+    setOpen(true);
   };
 
   const handleSearch = (e) => {
     const searchTerm = e.target.value.toLowerCase();
     setSearchTerm(searchTerm);
 
-    const items = data.filter((item) => item.Patch.toLowerCase().includes(searchTerm));
+    const items = data.filter((item) => item.SubCategory.toLowerCase().includes(searchTerm));
     if (selectedCategory) {
       setSelectedCategory('');
     }
@@ -53,18 +59,16 @@ const Form = () => {
     }
   };
 
+  const handleEditCategory = () => {
+
+  };
+
   return (
     <>
+
       <div className="search-section">
         <h2 className="category-title">Selecione uma Categoria:</h2>
         <div className="input-image">
-          <label htmlFor="search" className="search-icon">
-            <img
-              src={`${import.meta.env.BASE_URL}assets/search.png`}
-              className="icon-magnifier"
-              alt="Search"
-            />
-          </label>
           <input
             id="search"
             type="text"
@@ -73,48 +77,67 @@ const Form = () => {
             onChange={handleSearch}
             className="search-input"
           />
+          <label htmlFor="search" className="search-icon">
+            <img
+              src={`${import.meta.env.BASE_URL}assets/search.png`}
+              className="icon-magnifier"
+              alt="Search"
+            />
+          </label>
         </div>
       </div>
+      {isAdmin && (
+        <div className="edit-button-container">
+          <Button
+            onClick={handleEditCategory}
+            variant="outlined"
+            size="medium"
+            sx={{}}
+          >
+            Editar
+          </Button>
+        </div>
+      )}
+
       <div className="categoryTable-content">
+
         <div className="category-section">
           {categories.map((category) => (
-            <a
-              key={category}
-              className={`category-button ${selectedCategory === category ? 'active' : ''}`}
-              onClick={() => {
-                if (category === 'Sales Force') {
-                  setOpen(true);
-                } else {
-                  handleCategoryChange(category);
-                }
-              }}
-              onMouseEnter={(e) => {
-                const imgElement = e.currentTarget.querySelector('img');
-                imgElement.src = `${import.meta.env.BASE_URL}assets/${category}-white.png`;
-              }}
-              onMouseLeave={(e) => {
-                const imgElement = e.currentTarget.querySelector('img');
-                if (selectedCategory !== category) {
-                  imgElement.src = `${import.meta.env.BASE_URL}assets/${category}.png`;
-                }
-              }}
-            >
-              <img
-                src={
-                  selectedCategory === category
-                    ? `${import.meta.env.BASE_URL}assets/${category}-white.png`
-                    : `${import.meta.env.BASE_URL}assets/${category}.png`
-                }
-                className="category-icon"
-                alt={category}
-              />
-              {category}
-            </a>
+            <div key={category} className="category-button-container">
+              <a
+                className={`category-button ${selectedCategory === category ? 'active' : ''}`}
+                onClick={() => {
+                  if (category === 'Salesforce' || category === 'Dealers') {
+                    handleModalSubCatText(category);
+                  } else {
+                    handleCategoryChange(category);
+                  }
+                }}
+                onMouseEnter={(e) => {
+                  const imgElement = e.currentTarget.querySelector('img');
+                  imgElement.src = `${import.meta.env.BASE_URL}assets/${category}-white.png`;
+                }}
+                onMouseLeave={(e) => {
+                  const imgElement = e.currentTarget.querySelector('img');
+                  if (selectedCategory !== category) {
+                    imgElement.src = `${import.meta.env.BASE_URL}assets/${category}.png`;
+                  }
+                }}
+              >
+                <img
+                  src={
+                    selectedCategory === category
+                      ? `${import.meta.env.BASE_URL}assets/${category}-white.png`
+                      : `${import.meta.env.BASE_URL}assets/${category}.png`
+                  }
+                  className="category-icon"
+                  alt={category}
+                />
+                {category}
+              </a>
+            </div>
           ))}
         </div>
-        {
-          console.log('Filtred Item: ', filteredItems)
-        }
 
         {filteredItems.length > 0 ? (
           <section className="accordion-content">
@@ -122,13 +145,13 @@ const Form = () => {
           </section>
         ) : (
           <div className="middle-img">
-            <img className="middle-img" src={AudiBlack} alt="Logo AUDI black" />
+            {/* <img className="middle-img" src={AudiBlack} alt="Logo AUDI black" /> */}
           </div>
         )}
       </div>
 
-      {/* Modal conectado ao estado */}
-      <ModalContent open={open} onClose={() => setOpen(false)} />
+      {/* Modal para mostrar informações, se necessário */}
+      <ModalContent open={open} onClose={() => setOpen(false)} title={modalContent?.ModalTitle || ''} text={modalContent?.ModalText || ''} modalImg={modalContent?.ModalImg || ''} />
     </>
   );
 };

@@ -530,3 +530,1171 @@
     "TemplateUrl": "https://myserveprod.service-now.com/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bc0c5d468399b5109d535ba8beaad378"
   }
 ]
+//01/04/2025
+[
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Group DMS (Document Management)",
+    "isInternal": true,
+    "buttonName": "Outros",
+    "Type": "other",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2231e3f9c31535509bef1c0bb00131de"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Group DMS (Document Management)",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7291ebf9c31535509bef1c0bb001316f"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "KVS",
+    "buttonName": "Incidente",
+    "Type": "Incident",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "KVS",
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "KVS",
+    "buttonName": "Requisição de acesso",
+    "Type": "request",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Intranet",
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Intranet",
+    "buttonName": "Incidente",
+    "Type": "incident",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "SFTP",
+    "buttonName": "Liberação de acesso",
+    "Type": "incident",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Group DMS (Document Management)",
+    "buttonName": "Suporte",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bff16b3dc31535509bef1c0bb0013149"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "App Where",
+    "buttonName": "",
+    "TemplateUrl": "",
+    "ModalImg": "App Where",
+    "ModalTitle": "App Where",
+    "ModalText": "Para mais informações sobre o App Where, entre em contato com o e-mail a seguir: suporte.digital@audi.com.br",
+    "isPopUP": true
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Portal CPN",
+    "buttonName": "",
+    "TemplateUrl": "",
+    "ModalImg": "Portal CPN",
+    "ModalTitle": "Portal CPN",
+    "ModalText": "Para mais informações sobre o Portal CPN, entre em contato com o e-mail a seguir: fmb-ts_bra_suporte_audi@t-systems.com",
+    "isPopUP": true
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Desktop",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=11c22f7dc31535509bef1c0bb0013171"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Desktop",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=162327bdc31535509bef1c0bb00131a2"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Notebook",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=eae5e7b1c35535509bef1c0bb00131d0"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Notebook",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6746ebb1c35535509bef1c0bb0013136"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Dock Station",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4117ab35c35535509bef1c0bb00131f1"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Dock Station",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=0a776f35c35535509bef1c0bb00131d7"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Fones de ouvido (auricular\/headset)",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8448af75c35535509bef1c0bb0013191"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Fones de ouvido (auricular\/headset)",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d5a823f5c35535509bef1c0bb001312a"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Monitor",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e2692bf5c35535509bef1c0bb001314e"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Monitor",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=76c9eb39c35535509bef1c0bb00131b5"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Mouse",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6c9aeb79c35535509bef1c0bb001319a"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Mouse",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=89faa3b9c35535509bef1c0bb00131ac"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Teclado",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d2bbefb9c35535509bef1c0bb00131a3"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Teclado",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=3a1caff9c35535509bef1c0bb001318a"
+  },
+  {
+    "Category": "Equipamentos",
+    "SubCategory": "Cable Lock",
+    "buttonName": "Requisição",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "Sap Logon (SAPGUI)",
+    "buttonName": "Incidente",
+    "ToolTip": "Interface gráfica do usuário para acessar o sistema SAP.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=08835d8a8359b5109d535ba8beaad389"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "Sap Logon (SAPGUI)",
+    "buttonName": "Requisição",
+    "ToolTip": "Interface gráfica do usuário para acessar o sistema SAP.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6ce3d9ca8359b5109d535ba8beaad322"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP ABAP - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Linguagem de programação do SAP.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e14d2b7dc35535509bef1c0bb001315b"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP ABAP - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Linguagem de programação do SAP.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b2ad23fdc35535509bef1c0bb001319b"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP BASIS - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Base de administração do sistema SAP.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=ec1e67fdc35535509bef1c0bb0013189"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP BASIS - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Base de administração do sistema SAP.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9d7e2731c39535509bef1c0bb001316b"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP CO - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Controladoria.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f2de2b71c39535509bef1c0bb00131f5"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP CO - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Controladoria.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=884f27b1c39535509bef1c0bb00131c4"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP FI - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Contabilidade Financeira.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b8af23b1c39535509bef1c0bb00131e4"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP FI - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Contabilidade Financeira.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f1007fb1c39535509bef1c0bb0013175"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP MM - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Gerenciamento de Materiais.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8a6073f1c39535509bef1c0bb00131b0"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP MM - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Materiais.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=53c0bff1c39535509bef1c0bb00131d3"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP PWcE - ADB",
+    "buttonName": "",
+    "ToolTip": "Processos de importação.",
+    "TemplateUrl": "",
+    "ModalImg": "SAP",
+    "ModalTitle": "Incidente SAP PWcE",
+    "ModalText": "Por favor entre em contato com o time de TI da AUDI.",
+    "isPopUP": true
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP SD - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Vendas e Distribuição.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=42f1b7b5c39535509bef1c0bb0013100"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP SD - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Vendas e Distribuição.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9252b3b5c39535509bef1c0bb00131df"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP TRM - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Gestão de Tesouraria e Riscos.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6eb23ff5c39535509bef1c0bb001319b"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP TRM - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Gestão de Tesouraria e Riscos.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=83137339c39535509bef1c0bb0013168"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP WM - ADB",
+    "buttonName": "Incidente",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f273ff39c39535509bef1c0bb00131b7"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP WM - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dfd3fb79c39535509bef1c0bb00131b8"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP WM - ADB",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dfd3fb79c39535509bef1c0bb00131b8"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP WM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP WM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP HR - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP ABAP - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP BASIS - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP BO - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP BW - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP CO - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP FI - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP MM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP MMPUR - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP PM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP PP - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP PS - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP QM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP SD - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP SOLMAN - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP TRM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP WM - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP MM Legacy - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "SAP GRP (GRC / NFE) - MAIIS",
+    "buttonName": "Requisição",
+    "ToolTip": "Gerenciamento de Armazém.",
+    "TemplateUrl": " "
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "Reset de senha (SAP ADB)",
+    "buttonName": "Requisição",
+    "ToolTip": "",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6ce3d9ca8359b5109d535ba8beaad322"
+  },
+  {
+    "Category": "SAP",
+    "SubCategory": "Formulário SAP",
+    "buttonName": "Acessar",
+    "ToolTip": "",
+    "TemplateUrl": "https:\/\/apps.powerapps.com\/play\/e\/default-2882be50-2012-4d88-ac86-544124e120c8\/a\/acbcd80c-700e-405f-aed4-6e857954742c?tenantId=2882be50-2012-4d88-ac86-544124e120c8&hint=80b82bbb-785b-46fb-8986-fc577f61fc3d&sourcetime=1727888904809"
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "Bitlocker (Dificuldades com recovery)",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4444f7b9c39535509bef1c0bb00131e0"
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "CITRIX",
+    "buttonName": "Reset do Password 2 (Token RSA)",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e4a4fbb9c39535509bef1c0bb00131d5"
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "CITRIX",
+    "buttonName": "Requisição de acesso",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dd05fbf9c39535509bef1c0bb00131d4"
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "CITRIX",
+    "buttonName": "Incidente",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "Liberação de portas USB",
+    "buttonName": "Liberação de portas USB",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2d65773dc39535509bef1c0bb001319c"
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "VPN",
+    "buttonName": "Solicitação de acesso",
+    "TemplateUrl": "S"
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "VPN",
+    "buttonName": "Incidente",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Segurança",
+    "SubCategory": "Reportar Incident de Segurança da Informação",
+    "buttonName": "",
+    "TemplateUrl": "",
+    "ModalImg": "Segurança",
+    "ModalTitle": "Incident de Segurança da Informação",
+    "ModalText": "Para reportar um incidente de segurança, entre em contato com o e-mail a seguir: si@audi.com.br",
+    "isPopUP": true
+  },
+  {
+    "Category": "Servidores",
+    "SubCategory": "DRVS",
+    "buttonName": "Backup",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=03c5bf3dc39535509bef1c0bb00131e5"
+  },
+  {
+    "Category": "Servidores",
+    "SubCategory": "DRVS",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4c36fb7dc39535509bef1c0bb0013102"
+  },
+  {
+    "Category": "Servidores",
+    "SubCategory": "DRVS",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=95f67fbdc39535509bef1c0bb0013166"
+  },
+  {
+    "Category": "Servidores",
+    "SubCategory": "File Server",
+    "buttonName": "Backup",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=5657ffbdc39535509bef1c0bb00131f6"
+  },
+  {
+    "Category": "Servidores",
+    "SubCategory": "File Server",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=03b7b331c3d535509bef1c0bb00131ad"
+  },
+  {
+    "Category": "Servidores",
+    "SubCategory": "File Server",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a1883771c3d535509bef1c0bb0013155"
+  },
+  {
+    "Category": "Sistema Operacional",
+    "SubCategory": "Windows 10",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=98b977f1c3d535509bef1c0bb0013110"
+  },
+  {
+    "Category": "Sistema Operacional",
+    "SubCategory": "Windows 10",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=191afff1c3d535509bef1c0bb0013143"
+  },
+  {
+    "Category": "Sistema Operacional",
+    "SubCategory": "Windows 11",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7c4b3b75c3d535509bef1c0bb0013143"
+  },
+  {
+    "Category": "Sistema Operacional",
+    "SubCategory": "Windows 11",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1eab77b5c3d535509bef1c0bb00131b4"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Acrobat PRO",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "Type": "incident",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b30cffb5c3d535509bef1c0bb0013124"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Acrobat PRO",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=787cf3f5c3d535509bef1c0bb0013193"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Illustrator",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "Type": "incident",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=29dcf739c3d535509bef1c0bb0013186"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Illustrator",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=623d7779c3d535509bef1c0bb00131ac"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Photoshop",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "Type": "incident",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b79df379c3d535509bef1c0bb0013140"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Photoshop",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=490e7bb9c3d535509bef1c0bb00131ca"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Premier Pro",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "Type": "incident",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=916ef3f9c3d535509bef1c0bb0013159"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Adobe Premier Pro",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "Type": "request",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dace7ff9c3d535509bef1c0bb00131f2"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "App Bradesco",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4f2fbff9c3d535509bef1c0bb001317d"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "App Bradesco",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1b8fbb3dc3d535509bef1c0bb0013157"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "App Itaú",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6cffff7dc3d535509bef1c0bb00131d8"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "App Itaú",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f450c88ec3d535509bef1c0bb00131b6"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "AutoCad Free",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=35b044cec3d535509bef1c0bb00131c8"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "AutoCad Free",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b21108cec3d535509bef1c0bb0013142"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Canva",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=07714402c31935509bef1c0bb00131d4"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Canva",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7fd14c02c31935509bef1c0bb00131c7"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Cisco AnyConnect",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=68428c42c31935509bef1c0bb0013151"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Cisco AnyConnect",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=45a24482c31935509bef1c0bb001311d"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Citrix Receiver",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=310344c2c31935509bef1c0bb001314b"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Citrix Receiver",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f663ccc2c31935509bef1c0bb00131e8"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Crystal Reports",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=27c3ccc2c31935509bef1c0bb0013108"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Crystal Reports",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=60344806c31935509bef1c0bb00131fa"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Diagra",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b9948c46c31935509bef1c0bb0013160"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Diagra",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=cbf4c446c31935509bef1c0bb00131de"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "DIRF",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d7550886c31935509bef1c0bb00131ae"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "DIRF",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2bb5c8c6c31935509bef1c0bb001318d"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "E-CPF",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bc26800ac31935509bef1c0bb0013175"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "E-CPF",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6d86080ac31935509bef1c0bb0013170"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "ETKA",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=5df6080ac31935509bef1c0bb0013175"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "ETKA",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=2157c08ac31935509bef1c0bb00131ec"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Java",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=92b7c88ac31935509bef1c0bb0013145"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Java",
+    "isInternal": false,
+    "buttonName": "Requisição ",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8f1840cac31935509bef1c0bb00131b2"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Knowbe4",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=9c880ccac31935509bef1c0bb0013151"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Knowbe4",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=58e8c80ec31935509bef1c0bb00131ce"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Mozilla Firefox",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=c949840ec31935509bef1c0bb0013119"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Mozilla Firefox",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=55a9c44ec31935509bef1c0bb00131bb"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "MS Project",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=720a488ec31935509bef1c0bb001317c"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "MS Project",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bcb8f80ac31d35509bef1c0bb001310d"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "MS Visio",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a6119d868359b5109d535ba8beaad386"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "MS Visio",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=b581110a8359b5109d535ba8beaad3a2"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Nessus (PKI)",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bbe1190a8359b5109d535ba8beaad3e5"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Nessus (PKI)",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f452d14a8359b5109d535ba8beaad349"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Oracle Client 11",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=29b2514a8359b5109d535ba8beaad3ca"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "Oracle Client 11",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=1f13918a8359b5109d535ba8beaad353"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "SPED Fiscal",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=91445dca8359b5109d535ba8beaad349"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "SPED Fiscal",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=a7a49d0e8359b5109d535ba8beaad335"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Synchro",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=d115554e8359b5109d535ba8beaad399"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Synchro",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=bd755d4e8359b5109d535ba8beaad3e5"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Tecwin",
+    "isInternal": true,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=7fd51d4e8359b5109d535ba8beaad355"
+  },
+  {
+    "Category": "Sistemas",
+    "SubCategory": "Tecwin",
+    "isInternal": true,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=4146198e8359b5109d535ba8beaad35f"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "ThinkCell",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=e5b6d1ce8359b5109d535ba8beaad396"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "ThinkCell",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=dc2751028399b5109d535ba8beaad3ba"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "WinSCP",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=21871dce8359b5109d535ba8beaad359"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "WinSCP",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=93e751428399b5109d535ba8beaad328"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "ZGView",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=8558d5428399b5109d535ba8beaad3ed"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "ZGView",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=01b8d1828399b5109d535ba8beaad37a"
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "OpenScape",
+    "isInternal": false,
+    "buttonName": "Requisição",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Softwares",
+    "SubCategory": "OpenScape",
+    "isInternal": false,
+    "buttonName": "Incidente",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Móvel - iPad/iPhone",
+    "buttonName": "Incidente",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=f7b4effdc31535509bef1c0bb00131dd"
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Móvel - iPad/iPhone",
+    "buttonName": "Requisição",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=6c252f31c35535509bef1c0bb00131a5"
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Fixa",
+    "buttonName": "Incidente - São José dos Pinhais",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Fixa",
+    "buttonName": "Requisição - São José dos Pinhais",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Fixa",
+    "buttonName": "Incidente - Morumbi",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Fixa",
+    "buttonName": "Requisição - Morumbi",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Fixa",
+    "buttonName": "Incidente - Vinhedo",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Telefonia Fixa e Móvel",
+    "SubCategory": "Telefonia Fixa",
+    "buttonName": "Requisição - Vinhedo",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Salesforce",
+    "SubCategory": "",
+    "buttonName": "",
+    "TemplateUrl": "",
+    "ModalImg": "Salesforce",
+    "ModalTitle": "Salesforce",
+    "ModalText": "Para mais informações sobre o Salesforce, entre em contato com o e-mail a seguir: suporte.digital@audi.com.br",
+    "isPopUP": true
+  },
+  {
+    "Category": "Dealers (Concessionária)",
+    "SubCategory": "",
+    "buttonName": "",
+    "TemplateUrl": "",
+    "ModalImg": "Dealers (Concessionária)",
+    "ModalTitle": "Dealers (Concessionária)",
+    "ModalText": "Para mais informações sobre o Serviço de atendimento aos Dealers, clique no e-mail a seguir para abrir um chamado: fmb-ts_bra_suporte_audi@t-systems.com",
+    "isPopUP": true
+  },
+  {
+    "Category": "Redes",
+    "SubCategory": "São josé dos pinhais",
+    "buttonName": "Incidente",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Redes",
+    "SubCategory": "São josé dos pinhais",
+    "buttonName": "Requisição",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Redes",
+    "SubCategory": "Vinhedo",
+    "buttonName": "Incidente",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Redes",
+    "SubCategory": "Vinhedo",
+    "buttonName": "Requisição",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Redes",
+    "SubCategory": "Morumbi",
+    "buttonName": "Incidente",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Redes",
+    "SubCategory": "Morumbi",
+    "buttonName": "Requisição",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Impressoras",
+    "location": "São josé dos pinhais",
+    "SubCategory": "Impressoras de Escritório",
+    "buttonName": "Incidente - São josé dos pinhais",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Impressoras",
+    "location": "São josé dos pinhais",
+    "SubCategory": "Impressoras de Escritório",
+    "buttonName": "Requisição - São josé dos pinhais",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Impressoras",
+    "location": "Morumbi",
+    "SubCategory": "Impressoras de Escritório",
+    "buttonName": "Incidente - Morumbi",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Impressoras",
+    "location": "Morumbi",
+    "SubCategory": "Impressoras de Escritório",
+    "buttonName": "Requisição - Morumbi",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Impressoras",
+    "location": "Vinhedo",
+    "SubCategory": "Impressoras de Escritório",
+    "buttonName": "Incidente - Vinhedo",
+    "TemplateUrl": ""
+  },
+  {
+    "Category": "Impressoras",
+    "location": "Vinhedo",
+    "SubCategory": "Impressoras de Escritório",
+    "buttonName": "Requisição - Vinhedo",
+    "TemplateUrl": "Vinhedo"
+  },
+  {
+    "Category": "Impressoras",
+    "location": "Vinhedo",
+    "SubCategory": "Impressoras Zebra",
+    "buttonName": "Incidente - Vinhedo",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=637c6f3dc35535509bef1c0bb0013177"
+  },
+  {
+    "Category": "Impressoras",
+    "location": "Vinhedo",
+    "SubCategory": "Impressoras Zebra",
+    "buttonName": "Requisição - Vinhedo",
+    "TemplateUrl": "https:\/\/myserveprod.service-now.com\/myserve?id=template_detail&table=u_sc_ticket_mockup&sys_id=-1&sysparm_templateID=60ec2f7dc35535509bef1c0bb0013111"
+  }
+]

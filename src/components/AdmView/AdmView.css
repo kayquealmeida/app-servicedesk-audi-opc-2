@@ -1,0 +1,266 @@
+.admView {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex-grow: 1;
+    width: 100%;
+
+
+    /* border: 1px solid blue; */
+}
+
+.admTitle {
+    font-size: 1.3em;
+    margin: 0;
+    padding: 1.5rem 0 0 0;
+    text-align: left;
+    font-style: italic;
+
+    /* border: 1px solid #000; */
+}
+
+.admContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-grow: 1; */
+  /* margin: auto; */
+
+  /* border: 1px solid #000; */
+
+}
+
+.admIniciarBtn {
+  display: flex;
+  align-items: center;
+  padding: .6rem 3rem;
+  cursor: pointer;
+  position: relative;
+  top: 0;
+  font-size: 1.1em;
+  transition: all .4s ease-in-out;
+  border-radius: 5px;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.admIniciarBtn:hover {
+  background-color: #fff;
+  color: #000;
+  top: -2px;
+  border: 1px solid #000;
+}
+
+.panelContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+
+
+  /* border: 1px solid #000; */
+}
+
+.categoryStep {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1; */
+  display: block;
+  
+  
+  /* border: 1px solid blue; */
+}
+
+
+.createInputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 3rem 3.5rem 0;
+  flex: 1;
+
+  
+  /* border: 1px solid #ffc400; */
+}
+
+.labelContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 2rem;
+  margin-top:.5rem;
+  /* width: 100%; */
+
+
+
+  /* border: 1px solid #ffc400; */
+}
+
+.labelSign {
+  display: block;
+  width: 200px;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  font-size: .9em;
+
+
+
+  /* border: 1px solid #000; */
+}
+
+.labelContentTextArea {
+  resize: none;
+  padding: .5rem;
+}
+
+.selectAdm {
+  /* width: 171px; */
+  width: 187px;
+  padding: .2rem .5rem;
+}
+
+.labelContentInput {
+  border-radius: 3px;
+  border: 1px solid #000;
+  padding: .2rem .5rem;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 1rem 2rem;
+
+
+
+  /* border: 2px solid brown; */
+}
+
+
+.navigationBtn {
+  display: block;
+  width: 6.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: relative;
+  top: 0;
+  text-align: center;
+  font-size: .95em;
+  transition: all .4s ease-in-out;
+  border-radius: 5px;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.navigationBtn:last-of-type {
+  margin-left: .5rem;
+}
+
+.navigationBtn:hover {
+  background-color: #fff;
+  color: #000;
+  top: -2px;
+  border: 1px solid #000;
+}
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+.error-message {
+  color: #d32f2f;
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+  position: absolute;
+  bottom: -1.2rem;
+  left: 200px;
+}
+
+.input-error {
+  border-color: #d32f2f !important;
+}
+
+.iconPreview {
+  width: 100px;
+  height: 100px;
+  border: 1px dashed #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.imgIconPreview {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.checkbox-label input[type="checkbox"] {
+  margin-left: 0.5rem;
+}
+
+.labelContentTextArea {
+  width: 187px;
+  min-height: 100px;
+}
+
+.adminPanel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  /* border: 1px solid red; */
+  flex-grow: 1;
+}
+
+.adminPanelContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-grow: 1;
+  border-radius: 5px;
+  /* border: 2px solid; */
+}
+
+.adminButtons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  padding: 2rem 0;
+}
+
+.adminBtns {
+  margin-left: 10px;
+}
+
+.adminBtns:last-of-type {
+  margin-left: 10px;
+}
+
+.category-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

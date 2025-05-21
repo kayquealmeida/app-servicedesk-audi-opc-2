@@ -4,6 +4,15 @@
   font-weight: 400;
 }
 
+:root {
+  --primary-color: #000000;
+  --secondary-color: #cc0000;
+  --header-bg-color: #000000;
+  --header-text-color: #ffffff;
+  --footer-bg-color: #000000;
+  --footer-text-color: #ffffff;
+}
+
 /* Reset básico */
 * {
   margin: 0;
@@ -34,14 +43,6 @@ body {
   min-height: 100vh; /* Faz com que o app ocupe toda a altura da tela */
 }
 
-main {
-  padding: 0 20px;
-  /* max-width: 1920px;*/
-  /* border: 1px solid;  */
-
-  /* overflow-x: clip; */
-}
-
 .limitationWidth {
   display: flex;
   flex-direction: column;
@@ -54,10 +55,21 @@ main {
 
 }
 
+main {  
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0 20px;
+  /* max-width: 1920px;*/
+  /* border: 1px solid;  */
+
+  /* overflow-x: clip; */
+}
+
 header {
   width: 100%;
-  background-color: #000;
-  color: white;
+  background-color: var(--header-bg-color);
+  color: var(--header-text-color);
   padding: 20px;
   text-align: center;
 }
@@ -65,7 +77,7 @@ header {
 .header-content {
   display: flex;
   align-items: center;
-  justify-content: center;
+  /* justify-content: ; */
 }
 
 .header-content a {
@@ -94,13 +106,14 @@ label {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-direction: column;
   width: 100%;
   margin: 20px 0;
   text-align: center;
-  /* border: 1px solid; */
 }
 
 .category-title {
+  align-self: flex-start;
   font-size: 1.2em;
 }
 
@@ -108,7 +121,10 @@ label {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* border: 1px solid; */
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: .5rem;
+  /* border: 1px solid ; */
 }
 
 .search-icon {
@@ -121,15 +137,17 @@ label {
 }
 
 .icon-magnifier {
-  margin-right: .5rem;
+  margin-left: .5rem;
   width: 30px;
+  transform: rotate(90deg);
 }
 
 .search-input {
-  width: 300px;
+  display: block;
+  width: 80%;
   padding: 10px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 5px;
   font-size: 16px;
 }
 
@@ -143,18 +161,26 @@ label {
 
 .category-section {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
+  /* flex-direction: column; */
   align-items: flex-start;
   flex-wrap: wrap;
-  width: 420px;
-  max-width: 430px;
+  width: 500px;
+  /* max-width: 430px; */
+  /* height: 57.5vh; */
+  
+  gap: 0 10px;
+  padding: .5rem 0 1rem 0;
+
+
+
   /* border: 1px solid blue; */
 }
 
 .category-button {
   display: flex;
   align-items: center;
-  width: 200px;
+  width: 205px;
   padding: .3rem;
   height: 50px;
   /* margin: .5rem 0; */
@@ -164,19 +190,19 @@ label {
   top: 0;
   font-size: .9em;
   transition: all .4s ease-in-out;
-  border-radius: 4px;
+  border-radius: 5px;
   border: 1px solid #000;
 }
 
 .category-button:hover {
-  background-color: #000;
-  color: #fff;
+  background-color: var(--primary-color);
+  color: var(--header-text-color);
   top: -3px;
 }
 
 .active {
-  background-color: #000;
-  color: #fff;
+  background-color: var(--primary-color);
+  color: var(--header-text-color);
 }
 
 .category-icon {
@@ -188,7 +214,11 @@ label {
   content: url(/assets/{category}-white.png);
 }
 
-.close-button {
+.css-ltbivo-MuiButtonBase-root-MuiButton-root {
+  text-transform: none !important;
+}
+
+/* .close-button {
   display: inline-block;
   top: 0;
   margin-top: 15px;
@@ -197,8 +227,7 @@ label {
   position: absolute;
   border-radius: 100px;
 
-  /* float: right; */
-}
+} */
 
 .middle-img {
   display: flex;
@@ -214,15 +243,6 @@ label {
   
   /* border: 1px solid brown; */
 }
-
-footer {
-  width: 100%;
-  background: #000;
-  color: white;
-  padding: 10px;
-  text-align: center;
-}
-
 
 @media screen and (min-width: 1024px) { 
   main {
@@ -276,7 +296,7 @@ footer {
     flex-direction: column;
     justify-content: flex-start;
     width: 100%;
-    height: 568px;
+    /* height: 568px; */
     max-width: 500px;
   }
 
@@ -292,9 +312,10 @@ footer {
 
   .middle-img {
     width: 60vw;
-    position: absolute;
+    /* position: absolute; */
     left: auto;
     right: auto;
+    /* border: 1px solid; */
   }
   
 }

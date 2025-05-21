@@ -6,18 +6,45 @@
   align-self: flex-start;
   flex-direction: column;
   overflow-y: auto; 
-  background-color: white;
+  background-color: #fcfcfc;
   border: 1px solid #ddd;
   border-radius: 5px;
-  max-height: 49.5vh;
+  max-height: 55.4vh;
   margin-left: .5rem;
+  margin-top: .5rem;
   /* margin: 2rem 0; */
-
 
 
   -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.25);
   -moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.25);
   box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.25);
+}
+
+
+/* total width */
+.accordion-content::-webkit-scrollbar {
+  background-color: #fff;
+  width: 14px;
+  border-radius: 5px;
+}
+
+/* background of the scrollbar except button or resizer */
+.accordion-content::-webkit-scrollbar-track {
+  margin: .3rem 0;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+/* scrollbar itself */
+.accordion-content::-webkit-scrollbar-thumb {
+  background-color: #babac0;
+  border-radius: 16px;
+  border: 4px solid #fff;
+}
+
+/* set button(top and bottom of the scrollbar) */
+.accordion-content::-webkit-scrollbar-button {
+  display:none;
 }
 
 
@@ -30,10 +57,21 @@
   margin:  2px 0 !important;
 }
 
+/* @media screen and (min-width: 490px) { 
+  .accordion-content {
+    max-height: 81.7vh;
+  }
+}
+*/
+
+@media screen and (min-width: 970px) { 
+  .accordion-content {
+    max-height: 53vh;
+  }
+} 
 
 @media screen and (min-width: 1900px) { 
   .accordion-content {
-    max-height: 59.9vh;
+    max-height: 53.5vh;
   }
-
 }

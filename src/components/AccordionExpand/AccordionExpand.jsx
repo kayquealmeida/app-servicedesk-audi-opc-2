@@ -3,13 +3,17 @@ import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
-import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
-import { Button, ButtonGroup } from '@mui/material';
+import ModalContent from '../ModalContent/ModalContent';
+import TooltipContent from '../TooltipContent/TooltipContent';
 import './AccordionExpand.css';
+import AccordionButtonContent from '../AccordionButtonContent/AccordionButtonContent';
 
-const AccordionExpand = ({ items, keepOtherOpen }) => {
+const AccordionExpand = ({ items, keepOtherOpen, isAdmin }) => {
   const [groupedData, setGroupedData] = useState({});
+  const [open, setOpen] = useState(false); // Estado para controle do modal
+  const [modalContent, setModalContent] = useState({}); // Conteúdo do modal
+  const [expanded, setExpanded] = useState(null); // Estado para controlar qual accordion está expandido
 
   useEffect(() => {
     const grouped = items.reduce((acc, item) => {
@@ -19,9 +23,13 @@ const AccordionExpand = ({ items, keepOtherOpen }) => {
         acc[SubCategory] = [];
       }
 
+      console.log('acc[SubCategory]: ', acc[SubCategory])
+
       acc[SubCategory].push({
         ...item,
         toggled: false,
+        toolTip: item.ToolTip,
+        location: item.location || '',
       });
 
       return acc;
@@ -30,83 +38,88 @@ const AccordionExpand = ({ items, keepOtherOpen }) => {
     setGroupedData(grouped);
   }, [items]);
 
+
   // Manipular o toggle do accordion
-  const handleAccordionToggle = (subCategory) => {
-    setGroupedData((prevGrouped) => {
-      const updated = { ...prevGrouped };
+  const handleAccordionToggle = (subCategory, item) => {
+    if (item?.isPopUP) {
+      setModalContent(item);  // Passa o item para o conteúdo do modal
+      setOpen(true);  // Abre o modal
+      // console.log("Item com isPopUP:", item);
+    } else {
+      setGroupedData((prevGrouped) => {
+        const updated = { ...prevGrouped };
 
-      updated[subCategory] = updated[subCategory].map((item) => ({
-        ...item,
-        toggled: keepOtherOpen
-          ? !item.toggled
-          : item.SubCategory === subCategory && !item.toggled,
-      }));
+        updated[subCategory] = updated[subCategory].map((accItem) => ({
+          ...accItem,
+          toggled: keepOtherOpen
+            ? !accItem.toggled
+            : accItem.SubCategory === subCategory && !accItem.toggled,
+        }));
 
-      return updated;
-    });
+        return updated;
+      });
+    }
   };
 
   return (
-    < >
+    <>
       {Object.entries(groupedData).map(([subCategory, subItems], index) => (
         <React.Fragment key={subCategory}>
-          <Accordion
-            sx={{
-              marginBottom: "0",
-            }}
-          >
-            <AccordionSummary
-              expandIcon={<ArrowDropDownIcon />}
-              aria-controls={`panel${index}-content`}
-              id={`panel${index}-header`}
-              onClick={() => handleAccordionToggle(subCategory)}
+          <TooltipContent id="my-tooltip-children-multiline" text={subItems[0].ToolTip}>
+            <Accordion
+              sx={{
+                marginBottom: "0",
+              }}
+              expanded={expanded === subCategory} // Controla qual accordion está expandido
+              onChange={() => {
+                // Verifica se o item tem isPopUP
+                const itemWithPopUp = subItems.find(item => item.isPopUP);
+
+                if (itemWithPopUp) {
+                  // Impede a expansão do accordion e abre o modal
+                  setExpanded(null); // Não expande o accordion se tiver isPopUP
+                  handleAccordionToggle(subCategory, itemWithPopUp);
+                  // console.log("Item com isPopUP: abrir o modal", itemWithPopUp);
+                } else {
+                  // Expande ou fecha o accordion normalmente
+                  setExpanded(expanded === subCategory ? null : subCategory);
+                  // console.log("Accordion expandido", subCategory);
+                }
+              }}
             >
-              <Typography component="span">{subCategory}</Typography>
-            </AccordionSummary>
-            <AccordionDetails
+              <AccordionSummary
+                expandIcon={<ArrowDropDownIcon />}
+                aria-controls={`panel${index}-content`}
+                id={`panel${index}-header`}
+              >
+                <Typography component="span" fontWeight="550" color="#000">
+                  {subCategory}
 
-            >
-              <div
-                variant="contained"
-                sx={{
-                  display: "flex",
-                  flexDirection: "column",
-                  width: "100%",
-                }}>
+                </Typography>
+              </AccordionSummary>
 
-                {/* <div className="accordion-buttons"> */}
-                {subItems
-                  .filter((item) => item.toggled)
-                  .map((item) => (
-                    <Button
-                      href={item.TemplateUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      key={item.id || `${subCategory}-${item.Patch}`}
-                      variant="contained"
-                      size="small"
-                      sx={{
-                        margin: "0.4rem",
-                        borderRadius: "5px",
-                        backgroundColor: "#000",
-                        color: "#fff",
-                        "&:hover": {
-                          backgroundColor: "#fff",
-                          color: "#000",
-                        },
 
-                      }}
-                    >
-                      {item.SubPatch}
-                      {/* {console.log('itemSubpatch: ', item.SubPatch)} */}
-                    </Button>
-                  ))}
-                {/* </div> */}
-              </div>
-            </AccordionDetails>
-          </Accordion>
+              <AccordionDetails>
+                <div
+                  variant="contained"
+                  sx={{
+                    display: "flex",
+                    flexDirection: "column",
+                    width: "100%",
+                  }}
+                >
+
+                  <AccordionButtonContent subItems={subItems} isAdmin={isAdmin} />
+
+                </div>
+              </AccordionDetails>
+            </Accordion>
+          </TooltipContent>
         </React.Fragment>
       ))}
+
+      {/* Modal que é exibido caso o item tenha isPopUP como true */}
+      <ModalContent open={open} onClose={() => setOpen(false)} title={modalContent?.ModalTitle || ''} text={modalContent?.ModalText || ''} modalImg={modalContent?.ModalImg || ''} />
     </>
   );
 };

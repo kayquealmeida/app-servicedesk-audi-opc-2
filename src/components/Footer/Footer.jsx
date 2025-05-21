@@ -1,11 +1,18 @@
-import React from 'react'
+import React from 'react';
+import './Footer.css';
 
-const Footer = () => {
+const Footer = ({ settings }) => {
+
+  console.log('Settings in Footer:', settings)
+
   return (
-    <footer>
-      <p>&copy; 2024 Audi</p>
+    <footer style={{
+      backgroundColor: settings?.footerBgColor || '#000',
+      color: settings?.footerTextColor || '#fff'
+    }}>
+      <p>{settings?.footerText || 'Em caso de dúvida, entre em contato com o Service Desk via e-mail: servicedesk@audi.com.br ou telefone: (11) 4347-3036.'}</p>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

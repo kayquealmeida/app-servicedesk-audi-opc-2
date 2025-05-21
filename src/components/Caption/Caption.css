@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   width: 100%; 
-  padding: 0 30px 20px 20px;
+  padding-bottom: 20px;
 }
 
 .caption-text {
@@ -27,10 +27,4 @@
 
 .request::before {
   background-color: #008000;
-}
-
-@media screen and (min-width: 1250px) {
-  .caption-content {
-    padding: 0 30px 20px 30px;
-  }
 }

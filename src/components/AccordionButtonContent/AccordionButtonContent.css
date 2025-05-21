@@ -1,0 +1,10 @@
+.location_container {
+  display: block;
+  padding-bottom: 1rem;
+}
+
+.location_title {
+  display: block;
+  font-size: .9em;
+  margin-bottom: 1rem;
+}

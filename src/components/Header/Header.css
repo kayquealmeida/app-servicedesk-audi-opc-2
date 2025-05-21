@@ -1,0 +1,71 @@
+/* Container principal */
+.header-content {
+  display: flex;
+  justify-content: space-between; /* Distribui os itens nas extremidades */
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #000;
+  color: white;
+  position: relative; /* Para posicionamento absoluto do logo */
+}
+
+/* Container do logo e título */
+.header-titleImg {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.logo {
+  height: 40px;
+}
+
+/* Botão admin */
+.admin-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--secondary-color);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  margin-left: auto; /* Empurra para a direita */
+}
+
+.admin-button:hover {
+  background-color: #a30000;
+  transform: translateY(-1px);
+}
+
+.admin-button svg {
+  width: 20px;
+  height: 20px;
+  fill: white; /* Garante que o SVG será branco */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .header-titleImg {
+    position: static;
+    transform: none;
+    margin: 0 auto;
+  }
+  
+  .header-content {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .admin-button {
+    margin-left: 0;
+    order: -1;
+    align-self: flex-end;
+  }
+}

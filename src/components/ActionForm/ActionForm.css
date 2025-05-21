@@ -1,0 +1,88 @@
+/* ActionForm.css */
+.action-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.action-form__title {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.action-form__form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.action-form__content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.action-form__buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.action-form__button {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.action-form__button--save {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.action-form__button--save:hover {
+  background-color: #45a049;
+}
+
+.action-form__button--save:disabled {
+  background-color: #a5d6a7;
+  cursor: not-allowed;
+}
+
+.action-form__button--cancel {
+  background-color: #f44336;
+  color: white;
+}
+
+.action-form__button--cancel:hover {
+  background-color: #d32f2f;
+}
+
+.action-form__button--cancel:disabled {
+  background-color: #ef9a9a;
+  cursor: not-allowed;
+}
+
+.spinner {
+  width: 1rem;
+  height: 1rem;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: white;
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

@@ -50,7 +50,7 @@ const AccordionExpand = ({ items, keepOtherOpen }) => {
         <React.Fragment key={subCategory}>
           <tr className="accordion-header" onClick={() => handleAccordionToggle(subCategory)}>
             <td>{subCategory}</td>
-            {/* <td>{subItems[0]?.SubPatch || 'N/A'}</td> */}
+            {/* <td>{subItems[0]?.buttonName || 'N/A'}</td> */}
             {/* <td
               className="toggle"
               onClick={() => handleAccordionToggle(subCategory)}
@@ -70,7 +70,7 @@ const AccordionExpand = ({ items, keepOtherOpen }) => {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    {item.SubPatch}
+                    {item.buttonName}
                   </a>
                 </td>
               </tr>
